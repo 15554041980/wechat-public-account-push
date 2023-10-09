@@ -22,7 +22,7 @@ const USER_CONFIG = {
       
       name: '琴宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ofkwa6uUWqsvwXY9yAdDJejBjygA','ofkwa6kLlA72fyXRZoMgDjaejZH8',
+      id: 'ofkwa6uUWqsvwXY9yAdDJejBjygA',
       
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'qrILeD-ayh0hie43AlBzvp5tzwtb8QdZJZxARUU18j0',
