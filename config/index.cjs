@@ -12,7 +12,7 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'ba997a5dd401d5826d7e00b7c043f75e',
-  APP_SECRET: 'ofkwa6kLlA72fyXRZoMgDjaejZH8',
+  
   PROVINCE: '北京',
   CITY: '丰台区',
 
@@ -23,6 +23,7 @@ const USER_CONFIG = {
       name: '琴宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ofkwa6uUWqsvwXY9yAdDJejBjygA',
+      id: 'ofkwa6kLlA72fyXRZoMgDjaejZH8',
       
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'qrILeD-ayh0hie43AlBzvp5tzwtb8QdZJZxARUU18j0',
