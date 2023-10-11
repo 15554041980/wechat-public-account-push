@@ -50,7 +50,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ofkwa6uUWqsvwXY9yAdDJejBjygA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'OxWtP6wnYFgcgxY88gHx1fu_KatlDWbHHdXJFImTfUM',
+      useTemplateId: 'bn1oqh01QEAWHhB_VqHDE6ifA_F981ras9V9Eg_rNq4',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '1-09',
       festivals: [
@@ -77,7 +77,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ofkwa6vlNKzUU2lXRekDnkuvX7Rg',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'H2wurDXhoChgqxb4pomyPURB0QWyPqQqJF-c_E_MKUE',
+      useTemplateId: 'Vps8CDnMhU8RvCJrVEKCgd3Hiljwk6lN7j5VQF2eBRk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '9-09',
       festivals: [
